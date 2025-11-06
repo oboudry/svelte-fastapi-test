@@ -1,6 +1,5 @@
 <script lang="ts">
   import { onMount } from 'svelte';
-  import './App.css';
 
   interface Todo {
     id: number;
